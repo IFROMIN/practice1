@@ -1,0 +1,39 @@
+@media only screen and (max-width:1585px) {
+    nav a {
+        font-size:15px;
+        align-items: center;
+    }
+    
+    nav img {
+        display: none;
+    }
+
+    .dec p {
+        font-size: 20px;
+
+    }
+
+    .wrapper-dec {
+        margin-top:60px;
+    }
+
+    .wrapper-dec img {
+        max-width: 220px;
+    }
+
+    .oslik {
+        width: 256px;
+        height:171px;
+    }
+}
+@media only screen and (max-width:1520px) {
+    .oslik2 {
+        max-width:300px ;
+    }
+}
+@media only screen and (max-width:899px) {
+    nav a {
+        font-size:12px;
+    }
+
+}
